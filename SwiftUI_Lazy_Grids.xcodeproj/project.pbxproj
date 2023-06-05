@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B6E4A7A12A2DD61900717850 /* SwiftUI_Lazy_GridsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E4A7A02A2DD61900717850 /* SwiftUI_Lazy_GridsApp.swift */; };
-		B6E4A7A32A2DD61900717850 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E4A7A22A2DD61900717850 /* ContentView.swift */; };
+		B6E4A7A32A2DD61900717850 /* FilteredContentSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E4A7A22A2DD61900717850 /* FilteredContentSelectionView.swift */; };
 		B6E4A7A52A2DD61A00717850 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6E4A7A42A2DD61A00717850 /* Assets.xcassets */; };
 		B6E4A7A82A2DD61A00717850 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6E4A7A72A2DD61A00717850 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		B6E4A79D2A2DD61900717850 /* SwiftUI_Lazy_Grids.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_Lazy_Grids.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6E4A7A02A2DD61900717850 /* SwiftUI_Lazy_GridsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Lazy_GridsApp.swift; sourceTree = "<group>"; };
-		B6E4A7A22A2DD61900717850 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B6E4A7A22A2DD61900717850 /* FilteredContentSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilteredContentSelectionView.swift; sourceTree = "<group>"; };
 		B6E4A7A42A2DD61A00717850 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B6E4A7A72A2DD61A00717850 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				B6E4A7A02A2DD61900717850 /* SwiftUI_Lazy_GridsApp.swift */,
-				B6E4A7A22A2DD61900717850 /* ContentView.swift */,
+				B6E4A7A22A2DD61900717850 /* FilteredContentSelectionView.swift */,
 				B6E4A7A42A2DD61A00717850 /* Assets.xcassets */,
 				B6E4A7A62A2DD61A00717850 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B6E4A7A32A2DD61900717850 /* ContentView.swift in Sources */,
+				B6E4A7A32A2DD61900717850 /* FilteredContentSelectionView.swift in Sources */,
 				B6E4A7A12A2DD61900717850 /* SwiftUI_Lazy_GridsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
